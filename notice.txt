@@ -1,0 +1,53 @@
+﻿== CREDITS==
+Gelato developers and designers (in chronological order):
+
+Pedro Santana [ http://www.pecesama.net/weblog/ ]
+Jorge Condomi [ http://www.raven.com.ar/ ]
+Victor de la Rocha [ http://blog.mis-algoritmos.com/ ]
+Victor Bracco [ http://www.vbracco.com.ar/blog/ ]
+Matt Heitzenroder [ http://www.globaljourney.net/ ]
+Juan del Rio [ http://elcaminante.net/ ]
+
+= COPYRIGHT NOTICES =
+This product includes code and libraries developed by third parties, which are governed by different licenses.  These components, and their licenses, are listed below.
+
+= jQuery =
+Copyright (c) 2007 John Resig, http://jquery.com
+jQuery is available under a dual licensed the MIT and GPL licenses.
+
+= jQuery Lightbox =
+Copyright (c) 2007 Warren Krewenki, http://warren.mesozen.com/jquery-lightbox/
+jQuery Lightbox available under an Open License.
+
+= Sortable =
+Copyright (c) 1997-2006 Stuart Langridge, Joost de Valk, http://www.joostdevalk.nl/code/sortable-table/
+Sortable available under MIT license.
+
+= MP3 Audio Player =
+Copyright (c) 2005-2006  Martin Laine, http://www.1pixelout.net
+MP3 Audio Player available under GNU General Public License.
+
+= JPEG / PNG Image Resizer =
+Copyright (c) Michael John G. Lopez, http://www.sydel.net
+JPEG / PNG Image Resizer available under an Open License.
+
+= Clase Conexion_Mysql =
+Copyright (c) Pedro Santana, http://www.pecesama.net/weblog/
+Clase Conexion_Mysql available under MIT license.
+
+= Digg Style Paginator Class =
+Copyright (c) Victor De la Rocha, http://www.mis-algoritmos.com/
+Digg Style Paginator Class available under MIT license.
+
+= Clase plantillas =
+Copyright (c) Pedro Santana, http://www.pecesama.net/weblog/
+Clase plantillas available under MIT license.
+
+= Textile class =
+Copyright (c) 2003-2004, Dean Allen, http://textile.thresholdstate.com/
+Textile class available under GNU General Public License.
+
+= PHP-gettext =
+Copyright (c) 2003 Danilo Segan, http://savannah.nongnu.org/projects/php-gettext/
+Copyright (c) 2005 Nico Kaiser
+PHP-gettext available under GNU General Public License.

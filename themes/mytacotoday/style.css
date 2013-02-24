@@ -1,11 +1,30 @@
 body {        
 		background-color: #cccccc;
-                background-image: url(img/background.png);
+/*                background-image: url(img/background.png);*/
                 background-size: 100%;
 	        margin: 0px 0px 50px 60px;
 	        font: Normal 13px Arial, Helvetica, sans-serif;
 	        color: #555;
 	    }
+            
+            /* Our daytime Image top and center repeat horizontal */
+                .day
+                    {
+                        background-image: url(img/bg_day.png);
+                        background-size: 100%;
+                    }
+            /* Our Sunset Image top and center repeat horizontal */
+                .sunset
+                    {
+                        background-image: url(img/bg_sunset.png);
+                        background-size: 100%;
+                    }
+            /* Our Nightime Image top and center repeat horizontal */
+                .night
+                    {
+                        background-image: url(img/bg_night.png);
+                        background-size: 100%;
+                    }
 
 	    #container {
 	        width: 500px;

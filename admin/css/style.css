@@ -34,7 +34,7 @@ body{ background: #fff; text-align:center; font-family:"Trebuchet Ms", Verdana, 
 #cont{ width:569px; margin:30px auto 10px auto; text-align:left;}
 
 #head{ background: transparent url(images/head_bg.png) bottom center no-repeat; position: relative; padding-bottom:20px; height:73px;}
-	h1 a{ display:block; height:77px; width:161px; background:#fff url(images/gelato-logo.png) top left no-repeat; text-indent:-9999px; overflow:hidden;}
+	h1 a{ display:block; height:77px; width:161px; background:#fff url(images/logo.png) top left no-repeat; text-indent:-9999px; overflow:hidden;}
 
 #nav{ position:absolute; right:1px; font-size:0.75em; line-height:normal; margin:0; padding:0 10px 0 0; list-style:none;bottom:34px;}
 

@@ -26,7 +26,7 @@ $install->check_form();
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="generator" content="gelato cms <?php echo version();?>" />
-	<title>gelato :: installation</title>	
+	<title>MyTacoToday :: installation</title>	
 	<link rel="shortcut icon" href="images/favicon.ico" />
 	<style type="text/css" media="screen">	
 		@import "admin/css/style.css";		
@@ -35,7 +35,7 @@ $install->check_form();
 <body>
 <div id="cont">
 	<div id="head">
-		<h1><a href="index.php" title="gelato :: home">gelato cms</a></h1>
+		<h1><a href="index.php" title="MyTacoToday :: home">gelato cms</a></h1>
 	</div>
 	
 	<div id="main">

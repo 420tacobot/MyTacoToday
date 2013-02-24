@@ -64,7 +64,7 @@ if ($isAdmin) {
 	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 	<html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>gelato :: <?php echo __("comments")?></title>
+		<title>MyTacoToday :: <?php echo __("comments")?></title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="generator" content="gelato cms <?php echo version();?>" />
 		<link rel="shortcut icon" href="<?php echo $conf->urlGelato;?>/images/favicon.ico" />
@@ -86,7 +86,7 @@ if ($isAdmin) {
 		<div id="div-process" style="display:none;"><?=__("Processing request&hellip;");?></div>
 		<div id="cont">
 			<div id="head">
-				<h1><a href="<?php echo $conf->urlGelato;?>/" title="gelato :: <?=__("home")?>">gelato cms</a></h1>
+				<h1><a href="<?php echo $conf->urlGelato;?>/" title="MyTacoToday :: <?=__("home")?>">gelato cms</a></h1>
 				<ul id="nav">
 					<li><a href="<?php echo $conf->urlGelato;?>/" title="<?=__("Take me to the tumblelog")?>"><?=__("Back to the Tumblelog")?></a></li>
 			  	</ul>

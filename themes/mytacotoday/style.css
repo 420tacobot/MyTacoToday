@@ -29,10 +29,20 @@ body {
 	    #container {
 	        width: 500px;
 	        padding: 25px;
-	        background-color: #fff;
 	        border-bottom: solid 8px #aaa;
 	    }
-	    
+            .ontop {
+                background-color: #fff;
+                width: 500px;
+                height: 100%;
+                padding: 25px;
+                top:0;
+                left:60px;
+                position: absolute;
+                opacity: 0.2;
+                filter: alpha(opacity=20);
+                z-index: -1;
+            }
         img#rss {
             width: 36px;
             height: 19px;
